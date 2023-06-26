@@ -1,0 +1,1 @@
+const url = "http://api.mediastack.com/v1/news?access_key=62522a1fcb1ae8afbf87de2b308cdd37&countries=au,us&sources=cnn,bbc&categories=general&date=2023-06-20,2023-06-25&sort=popularity&limit=45&offset=100"
